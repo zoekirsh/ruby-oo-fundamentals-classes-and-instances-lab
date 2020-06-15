@@ -1,7 +1,6 @@
-
 # Classes And Instances Lab Ruby
 
-## Objectives
+## Learning Goals
 
 1. Define new Ruby classes with the `class` keyword.
 2. Instantiate instances of a `class`.
@@ -12,7 +11,9 @@ This lab is all about defining classes and instantiating instances.
 
 ## Instructions
 
-Open this lab with `learn open` and run your tests with `learn`.
+[Fork and clone this lab to your local environment][repo]. Once cloned, run your
+tests with the `learn test` or `rspec` commands. When you are passing all tests,
+run `learn submit` to submit your work.
 
 ### 1. Define `Dog` in `lib/dog.rb`
 
@@ -32,4 +33,8 @@ Under your `Person` class definition, create two people in local variables, `ade
 
 When you're done, submit the lab with `learn submit`.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/classes-and-instances-lab-ruby' title='Classes And Instances Lab Ruby'>Classes And Instances Lab Ruby</a> on Learn.co and start learning to code for free.</p>
+## Resources
+
+- [GitHub Lab][repo]
+
+[repo]: https://github.com/learn-co-curriculum/ruby-oo-fundamentals-classes-and-instances-lab
