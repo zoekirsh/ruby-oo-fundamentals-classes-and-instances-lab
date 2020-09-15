@@ -10,10 +10,6 @@
 
 This lab is all about defining classes and instantiating instances.
 
-## Instructions
-
-Open this lab with `learn open` and run your tests with `learn`.
-
 ### 1. Define `Dog` in `lib/dog.rb`
 
 Open `lib/dog.rb` and add a class definition for a `Dog` class.
@@ -29,7 +25,5 @@ Open `lib/person.rb` and add a class definition for a `Person` class.
 ### 4. Make 2 people in `lib/person.rb`
 
 Under your `Person` class definition, create two people in local variables, `adele_goldberg` and `alan_kay`
-
-When you're done, submit the lab with `learn submit`.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/classes-and-instances-lab-ruby' title='Classes And Instances Lab Ruby'>Classes And Instances Lab Ruby</a> on Learn.co and start learning to code for free.</p>
